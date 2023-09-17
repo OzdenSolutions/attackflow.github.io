@@ -164,7 +164,7 @@ p {
   transform: rotate(70deg);
 }
 .loader .loader-inner-1:before {
-  background: #06aed5;
+  background: #0082c9;
 }
 .loader .loader-inner-2 {
   top: 0;
@@ -172,7 +172,7 @@ p {
   transform: rotate(160deg);
 }
 .loader .loader-inner-2:before {
-  background: #ec008c;
+  background: #0082c9;
 }
 .loader .loader-inner-3 {
   bottom: 0;
@@ -180,7 +180,7 @@ p {
   transform: rotate(-110deg);
 }
 .loader .loader-inner-3:before {
-  background: #ffbf00;
+  background: #0082c9;
 }
 .loader .loader-inner-4 {
   bottom: 0;
@@ -188,7 +188,7 @@ p {
   transform: rotate(-20deg);
 }
 .loader .loader-inner-4:before {
-  background: #079c00;
+  background: #0082c9;
 }
 @keyframes loading-1 {
   0% {
